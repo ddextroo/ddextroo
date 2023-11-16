@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FLUF**
 
-- 👯 I’m looking to collaborate on **Anyone** Just message me on [Facebook: Dexter Gabucan Inguito](https://www.facebook.com/profile.php?id=100088807875457)
+- 👯 I’m looking to collaborate on **Anyone**
 
 - 👨‍💻 All of my projects are available at [http://dextrolio.netlify.app/](http://dextrolio.netlify.app/)
 
