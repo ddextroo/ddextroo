@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Myself onleh**
 
-- 👨‍💻 All of my projects are available at [http://dextrolio.me/](http://dextrolio.me/)
+- 👨‍💻 All of my projects are available at [http://dextrolio.netlify.app/](http://dextrolio.netlify.app/)
 
 - 💬 Ask me about **anything on tech**
 
