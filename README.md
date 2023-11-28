@@ -1,4 +1,4 @@
-[![MasterHead](https://lh3.googleusercontent.com/drive-viewer/AITFw-zyO4rzAT_NBE1LeEivp1hwMWAVgh6Eyk0Sb5aQ-_H7f5Pz1zYsCJw8s9_OQoQu8st_52J-rrH4pFCdeDkfTAx2eNfIlw=s1600)](http://dextrolio.netlify.app/)
+[![MasterHead](https://drive.google.com/uc?export=download&id=11RWHAE7K-wX2XNQUKwOkMYN45B1YCDTE)](http://dextrolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Dexter G. Inguito /@ddextroo</h1>
 <h3 align="center">A passionate Android Developer and Software Developer from Cebu, Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
