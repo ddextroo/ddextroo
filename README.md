@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Ultima Reviewer**
 
-- 🌱 I’m currently learning **FLUF**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **Anyone**
 
