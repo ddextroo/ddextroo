@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddextroo&label=Profile%20views&color=0e75b6&style=flat" alt="ddextroo" /> </p>
 
-- 🔭 I’m currently working on **Ultima Reviewer**
+- 🔭 I’m currently **Freelancing**
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
