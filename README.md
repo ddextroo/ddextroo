@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ddextroo&label=Profile%20views&color=0e75b6&style=for-the-badge&color=1a1301" alt="ddextroo" /> 
+  <img src="https://komarev.com/ghpvc/?username=ddextroo&label=Profile%20views&color=0e75b6&style=for-the-badge&color=45fc03" alt="ddextroo" /> 
   
 </div>
 
