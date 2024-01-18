@@ -94,7 +94,17 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently **Freelancing**<br><br>- 🌱 I’m currently learning **Jetpack Compose**<br><br>- 👯 I’m looking to collaborate on **Anyone**<br><br>- 👨‍💻 All of my projects are available at [http://dextrolio.netlify.app/](http://dextrolio.netlify.app/)<br><br>- 💬 Ask me about **anything on tech**<br><br>- 📫 How to reach me **dexteringuito3@gmail.com**</p>
+- 🔭 I’m currently **Freelancing**
+
+- 🌱 I’m currently learning **Jetpack Compose**
+
+- 👯 I’m looking to collaborate on **Anyone**
+
+- 👨‍💻 All of my projects are available at [http://dextrolio.netlify.app/](http://dextrolio.netlify.app/)
+
+- 💬 Ask me about **anything on tech**
+
+- 📫 How to reach me **dexteringuito3@gmail.com**
 
 ###
 
