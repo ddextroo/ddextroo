@@ -13,7 +13,7 @@
 <h3 align="center">Hi 👋, I'm Dexter G. Inguito /@ddextroo<br><br>A passionate freelance Android Developer and Software Developer based in Cebu, Philippines</h3>
 
 ###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddextroo&label=Profile%20views&color=0e75b6&style=flat" alt="ddextroo" /> </p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="12" />
