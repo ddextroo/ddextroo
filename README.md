@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ddextroo/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=ddextroo&label=Profile%20views&color=0e75b6&style=flat" alt="ddextroo" /> 
 </div>
 
 ###
