@@ -96,7 +96,7 @@
 
 - 🔭 I’m currently **Freelancing**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Anything**
 
 - 👯 I’m looking to collaborate on **Anyone**
 
