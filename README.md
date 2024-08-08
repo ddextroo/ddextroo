@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">Hi 👋, I'm Dexter G. Inguito /@ddextroo<br><br>A passionate freelance Android Developer, Web App Devloper and Desktop Application Developer based in Cebu, Philippines</h3>
+<h3 align="center">Hi 👋, I'm Dexter G. Inguito /@ddextroo<br><br>A passionate freelance Android Developer, Web App Developer and Desktop Application Developer based in Cebu, Philippines</h3>
 
 ###
 <div align="center">
