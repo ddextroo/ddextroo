@@ -100,7 +100,7 @@
 
 - 👯 I’m looking to collaborate on **Anyone**
 
-- 👨‍💻 All of my projects are available at [http://dextrolio.netlify.app/](http://dextrolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [http://dextrolio-v3.vercel.app/](dextrolio-v3.vercel.app)
 
 - 💬 Ask me about **anything on tech**
 
